@@ -1,0 +1,5 @@
+I know that this is well below par and I take full responsibility for it. I wish I was tested in another area. 
+Django channels has been the most difficult topic for me  to grasp in terms of learning. Even more experienced developers couldn't
+quite comprehend or explain it. 
+
+I hope that I am given a chance to prove myself in other aspects. 
